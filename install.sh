@@ -65,8 +65,8 @@ EOF
  sed -i "s/SOCKSAUTH/$SOCKSAUTH/g" /etc/danted.conf
  sed -i '/\/bin\/false/d' /etc/shells
  echo '/bin/false' >> /etc/shells
- systemctl restart dante.service
- systemctl enable dante.service
+ systemctl restart danted.service
+ systemctl enable danted.service
 }
  
 function Uninstallation(){
