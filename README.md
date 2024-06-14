@@ -1,6 +1,6 @@
+<h1 align="center">No longer receiving updates</h1>
 
-
-<h1 align="center">socks5-debian</h1>
+<h2 align="center">socks5-debian</h2>
 
 <p align="center">Simple Dante SOCKS5 Proxy Server Installer Script for Debian</p>
 
